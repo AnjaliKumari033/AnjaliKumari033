@@ -108,9 +108,10 @@
 <a target="_blank" href="https://leetcode.com/anjali08414/" style="padding-right:18px;">
   <img alt="Leetcode" width="100px" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
-<a target="_blank" href="https://auth.geeksforgeeks.org/user/anuragkumarsingh1002/practice/" style="padding-right:18px;">
-  <img alt="GeeksForGeeks" width="135px" src="https://auth.geeksforgeeks.org/user/anjali08414/practice" />
+<a target="_blank" href="https://auth.geeksforgeeks.org/user/anjali08414/practice" style="padding-right:18px;">
+  <img alt="GeeksForGeeks" width="135px" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" />
 </a>
+  
 </div>
 
 <br>
